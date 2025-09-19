@@ -6,15 +6,11 @@ Current as of September 2025
 
 ------------------------------------------------------------------------
 
-+-------------------------+------------------------------------------------------------------------------------------------+
-| Highest Degree Earned:  | Ph.D., Forest Resources, 2025, Mississippi State University, Starkville, Mississippi           |
-+-------------------------+------------------------------------------------------------------------------------------------+
-| Additional Credentials: | M.S., Biology: Biology, 2021, Purdue University – Fort Wayne, Fort Wayne                       |
-|                         |                                                                                                |
-|                         | B.S., Biology: Ecology and Evolution, 2018, Indiana University – Purdue University, Fort Wayne |
-|                         |                                                                                                |
-|                         | Minor – Professional Writing, 2018, Indiana University – Purdue University, Fort Wayne         |
-+-------------------------+------------------------------------------------------------------------------------------------+
+Highest Degree Earned:  Ph.D., Forest Resources, 2025, Mississippi State University, Starkville, Mississippi           
+
+Additional Credentials: M.S., Biology: Biology, 2021, Purdue University – Fort Wayne, Fort Wayne                       
+                        B.S., Biology: Ecology and Evolution, 2018, Indiana University – Purdue University, Fort Wayne
+                        Minor – Professional Writing, 2018, Indiana University – Purdue University, Fort Wayne         
 
 ## Work Experience/Appointments
 
